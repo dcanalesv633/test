@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699673260 source:c:\users\david\onedrive - ulacit ed cr\debugging\proyecto final\calculator\functions.c
+	<stdio.h>
+	"./include/functions.h"
+
+1699672778 c:\users\david\onedrive - ulacit ed cr\debugging\proyecto final\calculator\include\functions.h
+
+1699672802 source:c:\users\david\onedrive - ulacit ed cr\debugging\proyecto final\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./include/functions.h"
+
